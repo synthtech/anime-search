@@ -183,14 +183,6 @@
     "multitab": true,
     "show": true
   },
-  "manga-batoto": {
-    "index": 23,
-    "name": "[Manga] Batoto",
-    "url": "https://bato.to/search?name=",
-    "keyword": "",
-    "multitab": true,
-    "show": true
-  },
   "manga-bookwalker-jp": {
     "index": 24,
     "name": "[Manga] Bookwalker.jp",
