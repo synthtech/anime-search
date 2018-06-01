@@ -1,6 +1,5 @@
 {
   "anime-kitsu": {
-    "index": 0,
     "name": "[Anime] Kitsu",
     "url": "https://kitsu.io/anime?text=",
     "keyword": "",
@@ -8,7 +7,6 @@
     "show": true
   },
   "anime-mal": {
-    "index": 1,
     "name": "[Anime] MAL",
     "url": "https://myanimelist.net/anime.php?q=",
     "keyword": "",
@@ -16,7 +14,6 @@
     "show": true
   },
   "anime-anidb": {
-    "index": 2,
     "name": "[Anime] AniDB",
     "url": "https://anidb.net/perl-bin/animedb.pl?show=animelist&noalias=0&adb.search=",
     "keyword": "",
@@ -24,7 +21,6 @@
     "show": true
   },
   "anime-anime-planet": {
-    "index": 3,
     "name": "[Anime] Anime-Planet",
     "url": "https://www.anime-planet.com/anime/all?name=",
     "keyword": "",
@@ -32,7 +28,6 @@
     "show": true
   },
   "anime-anilist": {
-    "index": 4,
     "name": "[Anime] AniList",
     "url": "https://anilist.co/search/anime?sort=SEARCH_MATCH&search=",
     "keyword": "",
@@ -40,7 +35,6 @@
     "show": true
   },
   "anime-ann": {
-    "index": 5,
     "name": "[Anime] ANN",
     "url": "https://www.animenewsnetwork.com/encyclopedia/search/name?only=anime&q=",
     "keyword": "",
@@ -48,7 +42,6 @@
     "show": true
   },
   "anime-amazon-co-jp": {
-    "index": 6,
     "name": "[Anime] Amazon.co.jp",
     "url": "https://www.amazon.co.jp/s/ref=nb_sb_noss_1?__mk_ja_JP=カタカナ&url=search-alias%3Ddvd&field-keywords=",
     "keyword": "",
@@ -56,7 +49,6 @@
     "show": true
   },
   "anime-crunchyroll": {
-    "index": 7,
     "name": "[Anime] Crunchyroll",
     "url": "http://www.crunchyroll.com/search?q=",
     "keyword": "",
@@ -64,7 +56,6 @@
     "show": true
   },
   "anime-funimation": {
-    "index": 8,
     "name": "[Anime] Funimation",
     "url": "https://www.funimation.com/search/?q=",
     "keyword": "",
@@ -72,7 +63,6 @@
     "show": true
   },
   "anime-netflix": {
-    "index": 9,
     "name": "[Anime] Netflix",
     "url": "https://www.netflix.com/search?q=",
     "keyword": "",
@@ -80,7 +70,6 @@
     "show": true
   },
   "anime-hulu": {
-    "index": 10,
     "name": "[Anime] Hulu",
     "url": "https://www.hulu.com/search?q=genre%3Aanime+show%3A",
     "keyword": "",
@@ -88,7 +77,6 @@
     "show": true
   },
   "anime-sentai": {
-    "index": 11,
     "name": "[Anime] Sentai",
     "url": "https://www.sentaifilmworks.com/search?q=",
     "keyword": "",
@@ -96,7 +84,6 @@
     "show": true
   },
   "anime-viz": {
-    "index": 12,
     "name": "[Anime] Viz",
     "url": "https://www.viz.com/search?category=Series&search=",
     "keyword": "",
@@ -104,7 +91,6 @@
     "show": true
   },
   "manga-kitsu": {
-    "index": 13,
     "name": "[Manga] Kitsu",
     "url": "https://kitsu.io/manga?text=",
     "keyword": "",
@@ -112,7 +98,6 @@
     "show": true
   },
   "manga-mal": {
-    "index": 14,
     "name": "[Manga] MAL",
     "url": "https://myanimelist.net/manga.php?q=",
     "keyword": "",
@@ -120,7 +105,6 @@
     "show": true
   },
   "manga-mu-goog": {
-    "index": 15,
     "name": "[Manga] MU (Goog)",
     "url": "https://www.google.com/#q=site:mangaupdates.com/series.html+",
     "keyword": "",
@@ -128,7 +112,6 @@
     "show": true
   },
   "manga-mu-ddg": {
-    "index": 16,
     "name": "[Manga] MU (DDG)",
     "url": "https://duckduckgo.com/?q=site:mangaupdates.com/series.html+",
     "keyword": "",
@@ -136,7 +119,6 @@
     "show": true
   },
   "manga-anime-planet": {
-    "index": 17,
     "name": "[Manga] Anime-Planet",
     "url": "https://www.anime-planet.com/manga/all?name=",
     "keyword": "",
@@ -144,7 +126,6 @@
     "show": true
   },
   "manga-anilist": {
-    "index": 18,
     "name": "[Manga] AniList",
     "url": "https://anilist.co/search/manga?sort=SEARCH_MATCH&search=",
     "keyword": "",
@@ -152,7 +133,6 @@
     "show": true
   },
   "manga-ann": {
-    "index": 19,
     "name": "[Manga] ANN",
     "url": "https://www.animenewsnetwork.com/encyclopedia/search/name?only=manga&q=",
     "keyword": "",
@@ -160,7 +140,6 @@
     "show": true
   },
   "manga-amazon-co-jp": {
-    "index": 20,
     "name": "[Manga] Amazon.co.jp",
     "url": "https://www.amazon.co.jp/s/ref=nb_sb_noss_1?__mk_ja_JP=カタカナ&url=search-alias%3Dstripbooks&field-keywords=",
     "keyword": "",
@@ -168,7 +147,6 @@
     "show": true
   },
   "manga-doujinshi": {
-    "index": 21,
     "name": "[Manga] Doujinshi",
     "url": "https://www.doujinshi.org/search/simple/?T=objects&sn=",
     "keyword": "",
@@ -176,7 +154,6 @@
     "show": true
   },
   "manga-mangadex": {
-    "index": 22,
     "name": "[Manga] MangaDex",
     "url": "https://mangadex.com/?page=search&title=",
     "keyword": "",
@@ -184,7 +161,6 @@
     "show": true
   },
   "manga-bookwalker-jp": {
-    "index": 24,
     "name": "[Manga] Bookwalker.jp",
     "url": "https://bookwalker.jp/search/?qcat=&word=",
     "keyword": "",
@@ -192,7 +168,6 @@
     "show": true
   },
   "manga-yen-press": {
-    "index": 25,
     "name": "[Manga] Yen Press",
     "url": "http://www.b2c.hachettebookgroup.com/search/?yen&q=",
     "keyword": "",
@@ -200,7 +175,6 @@
     "show": true
   },
   "manga-kodansha-goog": {
-    "index": 26,
     "name": "[Manga] Kodansha (Goog)",
     "url": "https://www.google.com/#q=site:kodanshacomics.com/series/+",
     "keyword": "",
@@ -208,7 +182,6 @@
     "show": true
   },
   "manga-kodansha-ddg": {
-    "index": 27,
     "name": "[Manga] Kodansha (DDG)",
     "url": "https://duckduckgo.com/?q=site:kodanshacomics.com/series/+",
     "keyword": "",
@@ -216,7 +189,6 @@
     "show": true
   },
   "manga-viz": {
-    "index": 28,
     "name": "[Manga] Viz",
     "url": "https://www.viz.com/search?category=Manga&search=",
     "keyword": "",
@@ -224,7 +196,6 @@
     "show": true
   },
   "manga-mangahelpers": {
-    "index": 29,
     "name": "[Manga] MangaHelpers",
     "url": "https://mangahelpers.com/search?q=",
     "keyword": "",
@@ -232,7 +203,6 @@
     "show": true
   },
   "manga-line-webtoon": {
-    "index": 30,
     "name": "[Manga] LINE Webtoon",
     "url": "http://www.webtoons.com/search?keyword=",
     "keyword": "",
@@ -240,7 +210,6 @@
     "show": true
   },
   "manga-naver": {
-    "index": 31,
     "name": "[Manga] Naver",
     "url": "http://comic.naver.com/search.nhn?keyword=",
     "keyword": "",
@@ -248,7 +217,6 @@
     "show": true
   },
   "novel-lndb": {
-    "index": 32,
     "name": "[Novel] LNDB",
     "url": "http://lndb.info/search?text=",
     "keyword": "",
@@ -256,7 +224,6 @@
     "show": true
   },
   "novel-novelupdates": {
-    "index": 33,
     "name": "[Novel] NovelUpdates",
     "url": "http://www.novelupdates.com/?s=",
     "keyword": "",
@@ -264,7 +231,6 @@
     "show": true
   },
   "novel-baka-tsuki": {
-    "index": 34,
     "name": "[Novel] Baka-Tsuki",
     "url": "https://baka-tsuki.org/project/index.php?title=Special:Search&search=",
     "keyword": "",
@@ -272,7 +238,6 @@
     "show": true
   },
   "character-mal": {
-    "index": 35,
     "name": "[Character] MAL",
     "url": "https://myanimelist.net/character.php?q=",
     "keyword": "",
@@ -280,7 +245,6 @@
     "show": true
   },
   "character-anidb": {
-    "index": 36,
     "name": "[Character] AniDB",
     "url": "https://anidb.net/perl-bin/animedb.pl?show=characterlist&noalias=1&adb.search=",
     "keyword": "",
@@ -288,7 +252,6 @@
     "show": true
   },
   "character-anime-planet": {
-    "index": 37,
     "name": "[Character] Anime-Planet",
     "url": "https://www.anime-planet.com/characters/all?name=",
     "keyword": "",
