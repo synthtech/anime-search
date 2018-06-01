@@ -10,7 +10,6 @@
     "name": "[Anime] MAL",
     "url": "https://myanimelist.net/anime.php?q=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "anime-anidb": {
@@ -38,231 +37,198 @@
     "name": "[Anime] ANN",
     "url": "https://www.animenewsnetwork.com/encyclopedia/search/name?only=anime&q=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "anime-amazon-co-jp": {
     "name": "[Anime] Amazon.co.jp",
     "url": "https://www.amazon.co.jp/s/ref=nb_sb_noss_1?__mk_ja_JP=カタカナ&url=search-alias%3Ddvd&field-keywords=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "anime-crunchyroll": {
     "name": "[Anime] Crunchyroll",
     "url": "http://www.crunchyroll.com/search?q=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "anime-funimation": {
     "name": "[Anime] Funimation",
     "url": "https://www.funimation.com/search/?q=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "anime-netflix": {
     "name": "[Anime] Netflix",
     "url": "https://www.netflix.com/search?q=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "anime-hulu": {
     "name": "[Anime] Hulu",
     "url": "https://www.hulu.com/search?q=genre%3Aanime+show%3A",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "anime-sentai": {
     "name": "[Anime] Sentai",
     "url": "https://www.sentaifilmworks.com/search?q=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "anime-viz": {
     "name": "[Anime] Viz",
     "url": "https://www.viz.com/search?category=Series&search=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-kitsu": {
     "name": "[Manga] Kitsu",
     "url": "https://kitsu.io/manga?text=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-mal": {
     "name": "[Manga] MAL",
     "url": "https://myanimelist.net/manga.php?q=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-mu-goog": {
     "name": "[Manga] MU (Goog)",
     "url": "https://www.google.com/#q=site:mangaupdates.com/series.html+",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-mu-ddg": {
     "name": "[Manga] MU (DDG)",
     "url": "https://duckduckgo.com/?q=site:mangaupdates.com/series.html+",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-anime-planet": {
     "name": "[Manga] Anime-Planet",
     "url": "https://www.anime-planet.com/manga/all?name=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-anilist": {
     "name": "[Manga] AniList",
     "url": "https://anilist.co/search/manga?sort=SEARCH_MATCH&search=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-ann": {
     "name": "[Manga] ANN",
     "url": "https://www.animenewsnetwork.com/encyclopedia/search/name?only=manga&q=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-amazon-co-jp": {
     "name": "[Manga] Amazon.co.jp",
     "url": "https://www.amazon.co.jp/s/ref=nb_sb_noss_1?__mk_ja_JP=カタカナ&url=search-alias%3Dstripbooks&field-keywords=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-doujinshi": {
     "name": "[Manga] Doujinshi",
     "url": "https://www.doujinshi.org/search/simple/?T=objects&sn=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-mangadex": {
     "name": "[Manga] MangaDex",
     "url": "https://mangadex.com/?page=search&title=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-bookwalker-jp": {
     "name": "[Manga] Bookwalker.jp",
     "url": "https://bookwalker.jp/search/?qcat=&word=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-yen-press": {
     "name": "[Manga] Yen Press",
     "url": "http://www.b2c.hachettebookgroup.com/search/?yen&q=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-kodansha-goog": {
     "name": "[Manga] Kodansha (Goog)",
     "url": "https://www.google.com/#q=site:kodanshacomics.com/series/+",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-kodansha-ddg": {
     "name": "[Manga] Kodansha (DDG)",
     "url": "https://duckduckgo.com/?q=site:kodanshacomics.com/series/+",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-viz": {
     "name": "[Manga] Viz",
     "url": "https://www.viz.com/search?category=Manga&search=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-mangahelpers": {
     "name": "[Manga] MangaHelpers",
     "url": "https://mangahelpers.com/search?q=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-line-webtoon": {
     "name": "[Manga] LINE Webtoon",
     "url": "http://www.webtoons.com/search?keyword=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "manga-naver": {
     "name": "[Manga] Naver",
     "url": "http://comic.naver.com/search.nhn?keyword=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "novel-lndb": {
     "name": "[Novel] LNDB",
     "url": "http://lndb.info/search?text=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "novel-novelupdates": {
     "name": "[Novel] NovelUpdates",
     "url": "http://www.novelupdates.com/?s=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "novel-baka-tsuki": {
     "name": "[Novel] Baka-Tsuki",
     "url": "https://baka-tsuki.org/project/index.php?title=Special:Search&search=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "character-mal": {
     "name": "[Character] MAL",
     "url": "https://myanimelist.net/character.php?q=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "character-anidb": {
     "name": "[Character] AniDB",
     "url": "https://anidb.net/perl-bin/animedb.pl?show=characterlist&noalias=1&adb.search=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "character-anime-planet": {
     "name": "[Character] Anime-Planet",
     "url": "https://www.anime-planet.com/characters/all?name=",
     "keyword": "",
-    "multitab": true,
     "show": true
   },
   "character-anilist": {
     "name": "[Character] AniList",
     "url": "https://anilist.co/search/characters?sort=SEARCH_MATCH&search=",
     "keyword": "",
-    "multitab": true,
     "show": true
   }
 }
