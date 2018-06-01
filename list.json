@@ -34,7 +34,7 @@
   "anime-anilist": {
     "index": 4,
     "name": "[Anime] AniList",
-    "url": "https://anilist.co/search?type=anime&q=",
+    "url": "https://anilist.co/search/anime?sort=SEARCH_MATCH&search=",
     "keyword": "",
     "multitab": true,
     "show": true
@@ -146,7 +146,7 @@
   "manga-anilist": {
     "index": 18,
     "name": "[Manga] AniList",
-    "url": "https://anilist.co/search?type=manga&q=",
+    "url": "https://anilist.co/search/manga?sort=SEARCH_MATCH&search=",
     "keyword": "",
     "multitab": true,
     "show": true
