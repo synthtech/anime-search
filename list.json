@@ -257,5 +257,12 @@
     "keyword": "",
     "multitab": true,
     "show": true
+  },
+  "character-anilist": {
+    "name": "[Character] AniList",
+    "url": "https://anilist.co/search/characters?sort=SEARCH_MATCH&search=",
+    "keyword": "",
+    "multitab": true,
+    "show": true
   }
 }
