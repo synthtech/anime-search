@@ -41,7 +41,7 @@
   },
   "anime-amazon-co-jp": {
     "name": "[Anime] Amazon.co.jp",
-    "url": "https://www.amazon.co.jp/s/ref=nb_sb_noss_1?__mk_ja_JP=カタカナ&url=search-alias%3Ddvd&field-keywords=",
+    "url": "https://www.amazon.co.jp/s/url=search-alias%3Ddvd&field-keywords=",
     "keyword": "",
     "show": true
   },
@@ -125,7 +125,7 @@
   },
   "manga-amazon-co-jp": {
     "name": "[Manga] Amazon.co.jp",
-    "url": "https://www.amazon.co.jp/s/ref=nb_sb_noss_1?__mk_ja_JP=カタカナ&url=search-alias%3Dstripbooks&field-keywords=",
+    "url": "https://www.amazon.co.jp/s/url=search-alias%3Dstripbooks&field-keywords=",
     "keyword": "",
     "show": true
   },
