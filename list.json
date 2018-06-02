@@ -93,14 +93,8 @@
     "keyword": "",
     "show": true
   },
-  "manga-mu-goog": {
-    "name": "[Manga] MU (Goog)",
-    "url": "https://www.google.com/#q=site:mangaupdates.com/series.html+",
-    "keyword": "",
-    "show": true
-  },
-  "manga-mu-ddg": {
-    "name": "[Manga] MU (DDG)",
+  "manga-mu": {
+    "name": "[Manga] MU",
     "url": "https://duckduckgo.com/?q=site:mangaupdates.com/series.html+",
     "keyword": "",
     "show": true
@@ -159,14 +153,8 @@
     "keyword": "",
     "show": true
   },
-  "manga-kodansha-goog": {
-    "name": "[Manga] Kodansha (Goog)",
-    "url": "https://www.google.com/#q=site:kodanshacomics.com/series/+",
-    "keyword": "",
-    "show": true
-  },
-  "manga-kodansha-ddg": {
-    "name": "[Manga] Kodansha (DDG)",
+  "manga-kodansha": {
+    "name": "[Manga] Kodansha",
     "url": "https://duckduckgo.com/?q=site:kodanshacomics.com/series/+",
     "keyword": "",
     "show": true
