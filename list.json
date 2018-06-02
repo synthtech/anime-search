@@ -135,9 +135,15 @@
     "keyword": "",
     "show": true
   },
+  "manga-bookwalker-en": {
+    "name": "[Manga] Bookwalker (EN)",
+    "url": "https://global.bookwalker.jp/search/?qcat=2&word=",
+    "keyword": "",
+    "show": true
+  },
   "manga-bookwalker-jp": {
     "name": "[Manga] Bookwalker (JP)",
-    "url": "https://bookwalker.jp/search/?qcat=&word=",
+    "url": "https://bookwalker.jp/search/?qcat=2&word=",
     "keyword": "",
     "show": true
   },
@@ -153,9 +159,15 @@
     "keyword": "",
     "show": true
   },
-  "manga-kodansha": {
-    "name": "[Manga] Kodansha",
+  "manga-kodansha-en": {
+    "name": "[Manga] Kodansha (EN)",
     "url": "https://duckduckgo.com/?q=site:kodanshacomics.com/series/+",
+    "keyword": "",
+    "show": true
+  },
+  "manga-kodansha-jp": {
+    "name": "[Manga] Kodansha (JP)",
+    "url": "http://kc.kodansha.co.jp/search?kw=",
     "keyword": "",
     "show": true
   },
@@ -168,6 +180,12 @@
   "manga-lezhin-en": {
     "name": "[Manga] Lezhin (EN)",
     "url": "https://duckduckgo.com/?q=site:https://www.lezhin.com/en/comic/+",
+    "keyword": "",
+    "show": true
+  },
+  "manga-lezhin-kr": {
+    "name": "[Manga] Lezhin (KR)",
+    "url": "https://duckduckgo.com/?q=site:https://www.lezhin.com/kr/comic/+",
     "keyword": "",
     "show": true
   },
@@ -195,15 +213,33 @@
     "keyword": "",
     "show": true
   },
+  "novel-novelupdates": {
+    "name": "[Novel] NovelUpdates",
+    "url": "http://www.novelupdates.com/?s=",
+    "keyword": "",
+    "show": true
+  },
+  "novel-bookwalker-en": {
+    "name": "[Novel] Bookwalker (EN)",
+    "url": "https://global.bookwalker.jp/search/?qcat=3&word=",
+    "keyword": "",
+    "show": true
+  },
+  "novel-bookwalker-jp": {
+    "name": "[Novel] Bookwalker (JP)",
+    "url": "https://bookwalker.jp/search/?qcat=3&word=",
+    "keyword": "",
+    "show": true
+  },
   "novel-lndb": {
     "name": "[Novel] LNDB",
     "url": "http://lndb.info/search?text=",
     "keyword": "",
     "show": true
   },
-  "novel-novelupdates": {
-    "name": "[Novel] NovelUpdates",
-    "url": "http://www.novelupdates.com/?s=",
+  "novel-wln-updates": {
+    "name": "[Novel] WLN Updates",
+    "url": "https://www.wlnupdates.com/search?title=",
     "keyword": "",
     "show": true
   },
