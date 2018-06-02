@@ -207,6 +207,24 @@
     "keyword": "",
     "show": true
   },
+  "manga-ebookjapan": {
+    "name": "[Manga] eBookJapan",
+    "url": "https://www.ebookjapan.jp/ebj/search_book/?q=",
+    "keyword": "",
+    "show": true
+  },
+  "manga-anytoon": {
+    "name": "[Manga] Anytoon",
+    "url": "http://www.anytoon.co.kr/search_result.htm?search_value=",
+    "keyword": "",
+    "show": true
+  },
+  "manga-mangaz": {
+    "name": "[Manga] MangaZ",
+    "url": "https://www.mangaz.com/title/index?query=",
+    "keyword": "",
+    "show": true
+  },
   "manga-mangahelpers": {
     "name": "[Manga] MangaHelpers",
     "url": "https://mangahelpers.com/search?q=",
