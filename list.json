@@ -147,6 +147,12 @@
     "keyword": "",
     "show": true
   },
+  "manga-seven-seas": {
+    "name": "[Manga] Sevens Seas",
+    "url": "http://www.sevenseasentertainment.com/?s=",
+    "keyword": "",
+    "show": true
+  },
   "manga-yen-press": {
     "name": "[Manga] Yen Press",
     "url": "http://www.b2c.hachettebookgroup.com/search/?yen&q=",
@@ -171,9 +177,9 @@
     "keyword": "",
     "show": true
   },
-  "manga-mangahelpers": {
-    "name": "[Manga] MangaHelpers",
-    "url": "https://mangahelpers.com/search?q=",
+  "manga-lezhin-en": {
+    "name": "[Manga] Lezhin (EN)",
+    "url": "https://duckduckgo.com/?q=site:https://www.lezhin.com/en/comic/+",
     "keyword": "",
     "show": true
   },
@@ -186,6 +192,18 @@
   "manga-naver": {
     "name": "[Manga] Naver",
     "url": "http://comic.naver.com/search.nhn?keyword=",
+    "keyword": "",
+    "show": true
+  },
+  "manga-tapas": {
+    "name": "[Manga] Tapas",
+    "url": "https://tapas.io/search?t=COMICS&q=",
+    "keyword": "",
+    "show": true
+  },
+  "manga-mangahelpers": {
+    "name": "[Manga] MangaHelpers",
+    "url": "https://mangahelpers.com/search?q=",
     "keyword": "",
     "show": true
   },
