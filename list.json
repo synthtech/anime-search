@@ -40,7 +40,7 @@
     "show": true
   },
   "anime-amazon-co-jp": {
-    "name": "[Anime] Amazon.co.jp",
+    "name": "[Anime] Amazon (JP)",
     "url": "https://www.amazon.co.jp/s/url=search-alias%3Ddvd&field-keywords=",
     "keyword": "",
     "show": true
@@ -94,7 +94,7 @@
     "show": true
   },
   "manga-mu": {
-    "name": "[Manga] MU",
+    "name": "[Manga] MangaUpdates",
     "url": "https://duckduckgo.com/?q=site:mangaupdates.com/series.html+",
     "keyword": "",
     "show": true
@@ -118,7 +118,7 @@
     "show": true
   },
   "manga-amazon-co-jp": {
-    "name": "[Manga] Amazon.co.jp",
+    "name": "[Manga] Amazon (JP)",
     "url": "https://www.amazon.co.jp/s/url=search-alias%3Dstripbooks&field-keywords=",
     "keyword": "",
     "show": true
@@ -136,7 +136,7 @@
     "show": true
   },
   "manga-bookwalker-jp": {
-    "name": "[Manga] Bookwalker.jp",
+    "name": "[Manga] Bookwalker (JP)",
     "url": "https://bookwalker.jp/search/?qcat=&word=",
     "keyword": "",
     "show": true
