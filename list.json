@@ -131,7 +131,7 @@
   },
   "manga-mangadex": {
     "name": "[Manga] MangaDex",
-    "url": "https://mangadex.com/?page=search&title=",
+    "url": "https://mangadex.org/?page=search&title=",
     "keyword": "",
     "show": true
   },
