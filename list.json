@@ -10,6 +10,7 @@
     "name": "[Anime] MAL",
     "url": "https://myanimelist.net/anime.php?q=",
     "keyword": "",
+    "multitab": true,
     "show": true
   },
   "anime-anidb": {
@@ -36,6 +37,12 @@
   "anime-ann": {
     "name": "[Anime] ANN",
     "url": "https://www.animenewsnetwork.com/encyclopedia/search/name?only=anime&q=",
+    "keyword": "",
+    "show": true
+  },
+  "anime-tvdb": {
+    "name": "[Anime] TheTVDB",
+    "url": "https://www.thetvdb.com/search?l=en&q=",
     "keyword": "",
     "show": true
   },
