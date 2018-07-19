@@ -256,6 +256,12 @@
     "keyword": "",
     "show": true
   },
+  "novel-ebookjapan": {
+    "name": "[Novel] eBookJapan",
+    "url": "https://www.ebookjapan.jp/ebj/search_book/?genre=activeGeneralGenreName%3Dライトノベル&q=",
+    "keyword": "",
+    "show": true
+  },
   "novel-lndb": {
     "name": "[Novel] LNDB",
     "url": "http://lndb.info/search?text=",
