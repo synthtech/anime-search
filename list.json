@@ -220,6 +220,18 @@
     "keyword": "",
     "show": true
   },
+  "manga-daum-webtoon": {
+    "name": "[Manga] Daum Webtoon",
+    "url": "http://cartoon.media.daum.net/search/total?q=",
+    "keyword": "",
+    "show": true
+  },
+  "manga-daum-books": {
+    "name": "[Manga] Daum (Books)",
+    "url": "http://book.daum.net/search/bookSearch.do?query=",
+    "keyword": "",
+    "show": true
+  },
   "manga-anytoon": {
     "name": "[Manga] Anytoon",
     "url": "http://www.anytoon.co.kr/search_result.htm?search_value=",
