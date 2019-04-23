@@ -48,7 +48,7 @@
   },
   "anime-amazon-co-jp": {
     "name": "[Anime] Amazon (JP)",
-    "url": "https://www.amazon.co.jp/s/url=search-alias%3Ddvd&field-keywords=",
+    "url": "https://www.amazon.co.jp/s?k=%s&i=dvd",
     "keyword": "",
     "show": true
   },
@@ -126,7 +126,7 @@
   },
   "manga-amazon-co-jp": {
     "name": "[Manga] Amazon (JP)",
-    "url": "https://www.amazon.co.jp/s/url=search-alias%3Dstripbooks&field-keywords=",
+    "url": "https://www.amazon.co.jp/s?k=%s&i=stripbooks",
     "keyword": "",
     "show": true
   },
