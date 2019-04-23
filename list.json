@@ -102,7 +102,7 @@
   },
   "manga-mu": {
     "name": "[Manga] MangaUpdates",
-    "url": "https://duckduckgo.com/?q=site:mangaupdates.com/series.html+",
+    "url": "https://www.mangaupdates.com/series.html?search=",
     "keyword": "",
     "show": true
   },
