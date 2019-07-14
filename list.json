@@ -216,7 +216,7 @@
   },
   "manga-ebookjapan": {
     "name": "[Manga] eBookJapan",
-    "url": "https://www.ebookjapan.jp/ebj/search_book/?q=",
+    "url": "https://ebookjapan.yahoo.co.jp/search?genres=T1,T2,T4,T5,T12&keyword=",
     "keyword": "",
     "show": true
   },
@@ -270,7 +270,7 @@
   },
   "novel-ebookjapan": {
     "name": "[Novel] eBookJapan",
-    "url": "https://www.ebookjapan.jp/ebj/search_book/?genre=activeGeneralGenreName%3Dライトノベル&q=",
+    "url": "https://ebookjapan.yahoo.co.jp/search?genres=T7&keyword=",
     "keyword": "",
     "show": true
   },
