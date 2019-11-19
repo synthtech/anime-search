@@ -154,6 +154,12 @@
     "keyword": "",
     "show": true
   },
+  "manga-bookwalker-r18-jp": {
+    "name": "[Manga] Bookwalker R18 (JP)",
+    "url": "https://r18.bookwalker.jp/search/?qcat=2&word=",
+    "keyword": "",
+    "show": true
+  },
   "manga-seven-seas": {
     "name": "[Manga] Sevens Seas",
     "url": "http://www.sevenseasentertainment.com/?s=",
@@ -265,6 +271,12 @@
   "novel-bookwalker-jp": {
     "name": "[Novel] Bookwalker (JP)",
     "url": "https://bookwalker.jp/search/?qcat=3&word=",
+    "keyword": "",
+    "show": true
+  },
+  "novel-bookwalker-r18-jp": {
+    "name": "[Novel] Bookwalker R18 (JP)",
+    "url": "https://r18.bookwalker.jp/search/?qcat=3&word=",
     "keyword": "",
     "show": true
   },
