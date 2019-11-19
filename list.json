@@ -198,13 +198,13 @@
   },
   "manga-line-webtoon": {
     "name": "[Manga] LINE Webtoon",
-    "url": "http://www.webtoons.com/search?keyword=",
+    "url": "https://www.webtoons.com/search?keyword=",
     "keyword": "",
     "show": true
   },
   "manga-naver": {
     "name": "[Manga] Naver",
-    "url": "http://comic.naver.com/search.nhn?keyword=",
+    "url": "https://comic.naver.com/search.nhn?keyword=",
     "keyword": "",
     "show": true
   },
